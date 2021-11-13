@@ -138,7 +138,7 @@ r.scene = [
   Sphere(V3(0, -1.5, -10), 1.5, ivory),
   Sphere(V3(-2, 1, -12), 2, glass),
   Sphere(V3(1, 1, -8), 1.7, rubber),
-  Sphere(V3(0, 5, -20), 5, mirror),
+  Sphere(V3(0, 5, -20), 5, rubber),
 ]
 r.render()
 r.write('r.bmp')

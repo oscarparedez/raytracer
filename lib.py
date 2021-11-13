@@ -211,7 +211,7 @@ def writebmp(filename, width, height, pixels):
     # Pixel data (width x height x 3 pixels)
     for x in range(height):
       for y in range(width):
-        f.write(pixels[x][y])
+        f.write(pixels[x][y].toBytes())
 
 def reflect(I, N):
   return norm(sub(I, mul(N, 2 * dot(I, N))))
