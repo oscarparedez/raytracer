@@ -4,8 +4,8 @@ Python-based Raytracer: Minecraft Scene
 
 Sample Image:
 
-![](https://github.com/oscarparedez/raytracer/blob/main/minecraft.png)
+![](https://github.com/oscarparedez/raytracer/blob/master/minecraft.png)
 
 Result:
 
-![](https://github.com/oscarparedez/raytracer/blob/main/minecraft.bmp)
+![](https://github.com/oscarparedez/raytracer/blob/master/minecraft.bmp)
