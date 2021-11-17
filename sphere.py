@@ -1,6 +1,5 @@
 from lib import *
 
-
 class Sphere(object):
   def __init__(self, center, radius, material):
     self.center = center
