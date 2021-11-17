@@ -11,6 +11,7 @@ MAX_RECURSION_DEPTH = 3
 BLACK = color(0,0,0)
 NIGHT = color(0, 7, 79)
 
+#Based in class videos
 class RayTracer(object):
   def __init__(self, width, height):
     self.width = width
